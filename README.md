@@ -7,7 +7,8 @@
 # Homework 1
 Task: Use a separat potentiometer in controlling each of the color of the RGB led (Red,Green and Blue).  The control must be done with digital electronics (aka you must read the value of the potentiometer with Arduino, and write a mapped value to each of the pins connectedto the led).
 
--> Code: 
+-> Code: https://github.com/alexion2001/IntroductionToRobotics/blob/0c940aba00a10b9daafc6054ab52af2926e724e8/HW1_controlling_RBG_with_3_Potentiometers.ino
+
 -> Electronic scheme:
 ![Stunning Hango (1)](https://user-images.githubusercontent.com/96074975/197201247-bc62abe6-ff1e-4158-9682-723ed64c8442.png)
 
