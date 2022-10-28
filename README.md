@@ -54,6 +54,7 @@ seconds.
 
 ### Electronic scheme:
 
+![setup](https://user-images.githubusercontent.com/96074975/198549826-a3d2b964-b6b0-421e-b137-392fc46feeab.png)
 
 
 
