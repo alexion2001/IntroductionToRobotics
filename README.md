@@ -11,20 +11,19 @@
 <br>
 
 ### Task: Use a separat potentiometer in controlling each of the color of the RGB led (Red,Green and Blue).  The control must be done with digital electronics.
-### Code: https://github.com/alexion2001/IntroductionToRobotics/blob/0c940aba00a10b9daafc6054ab52af2926e724e8/HW1_controlling_RBG_with_3_Potentiometers.ino
-
+### Code: [link here](https://github.com/alexion2001/IntroductionToRobotics/blob/0c940aba00a10b9daafc6054ab52af2926e724e8/HW1_controlling_RBG_with_3_Potentiometers.ino)
+  
+### How it works: [youtube video link here](https://www.youtube.com/shorts/Zp5al3GsAVY)
+  
+  
 ### Electronic scheme:
 ![Stunning Hango (1)](https://user-images.githubusercontent.com/96074975/197201247-bc62abe6-ff1e-4158-9682-723ed64c8442.png)
 
 
-
 ![poza_setup](https://user-images.githubusercontent.com/96074975/197208523-eb2c5e17-1bdc-4892-8c30-98eb6ff12097.jpg)
 
-### How it works:
 
 
-
-https://user-images.githubusercontent.com/96074975/197208093-458b3073-97a8-46ae-a141-4fdb6a094ba6.mp4
 </details>
 
 <details>
@@ -54,13 +53,15 @@ seconds.
 
 ### Electronic scheme:
 
-![setup](https://user-images.githubusercontent.com/96074975/198549826-a3d2b964-b6b0-421e-b137-392fc46feeab.png)
+![Cool Crift-Maimu (1)](https://user-images.githubusercontent.com/96074975/199217055-e26f37f7-5463-436d-8ba3-7d6c80b57f6e.png)
 
 
 
 
-### How it works:
 
+### How it works: [youtube video link here](https://youtu.be/E9VyncBOSJI)
+
+![project_photo](https://user-images.githubusercontent.com/96074975/199219840-b409768b-400e-4cae-bbeb-df57a603a941.jpg)
 
 
 </details>
