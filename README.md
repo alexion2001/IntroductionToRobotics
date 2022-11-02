@@ -7,7 +7,7 @@
 # Homeworks
 
 <details>
-<summary>Homework 1:  RGB led control with 3 potentiometers :bulb: </summary>
+<summary> <h2>Homework 1: RGB led control with 3 potentiometers :bulb: </h2> </summary>
 <br>
 
 ### Task: Use a separat potentiometer in controlling each of the color of the RGB led (Red,Green and Blue).  The control must be done with digital electronics.
@@ -27,7 +27,7 @@
 </details>
 
 <details>
-<summary>Homework 2: Crosswalk simulator :vertical_traffic_light: :car: :walking: </summary>
+<summary><h2>Homework 2: Crosswalk simulator :vertical_traffic_light: :car: :walking: </h2> </summary>
 <br>
 
 ### Task: Building the traffic lights for a crosswalk. 
@@ -64,6 +64,42 @@ seconds.
 
 
 </details>
+
+
+<details>
+<summary><h2>Homework 3: :x: unknown :x:  </h2> </summary>
+<br>
+
+### Task: 
+
+### :computer: Code: [see my amazing code here :blush:]()
+
+### :movie_camera: How it works: [see my youtube video here :video_camera:]() 
+### :electric_plug: Electronic scheme:
+
+
+
+
+</details>
+
+
+<details>
+<summary><h2>Homework 4: :x: unknown :x: </h2> </summary>
+<br>
+
+### Task: 
+
+### :computer: Code: [see my amazing code here :blush:]()
+
+### :movie_camera: How it works: [see my youtube video here :video_camera:]() 
+### :electric_plug: Electronic scheme:
+
+
+
+
+</details>
+
+
 
 
 
