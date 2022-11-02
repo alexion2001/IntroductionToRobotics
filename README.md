@@ -51,7 +51,7 @@ seconds.
 
 ### :computer: Code: [see my amazing code here :blush:](https://github.com/alexion2001/IntroductionToRobotics/blob/be40cee61b02a843b62377ace9d2fb2a10df98b7/HW2_Traffic_lights_for_a_crosswalk.ino)
 
-### :movie_camera: How it works: [see my youtube video here :video_camera:](https://youtu.be/E9VyncBOSJI)
+### :movie_camera: How it works: [see my youtube video here :video_camera:](https://youtube.com/shorts/tib97UyPijg?feature=share) [and here](https://youtube.com/shorts/E9VyncBOSJI?feature=share)
 
 ### :electric_plug: Electronic scheme:
 
