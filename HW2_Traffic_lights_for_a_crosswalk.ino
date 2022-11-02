@@ -33,7 +33,8 @@ int stage1DurationAfterPress = 8; //8
 int stage2Duration= 3; //3
 int stage3Duration = 8; //8
 int stage4Duration = 4;  //4
-int blinkTime = 200;
+int blinkTime = 350;
+int fasterBlinkTime = 200;
 
 // variabile pentru stare
 int currentStage = 1;
@@ -94,6 +95,7 @@ void loop() {
         currentStage = 3;
         stageReset = 0;
         trafficLightTime = millis();
+        elapsedBlinkTime = trafficLightTime;
         }
       break;
     case 3: //State3(8s):red for cars, green for people and a beeping sound from the buzzer at a constant interval
@@ -107,6 +109,15 @@ void loop() {
         digitalWrite(carsRedLedPin,carsRedLedState);
         digitalWrite(passerRedLedPin,passerRedLedState);
         digitalWrite(passerGreenLedPin,passerGreenLedState);
+
+        if(millis() - elapsedBlinkTime >= blinkTime){ // setare interval de intermitenta led verde pietoni si buzzer
+          elapsedBlinkTime = millis();
+          buzzerState = !buzzerState;
+          if(buzzerState) // daca starea buzzer-ul este activ, setez tonalitatea
+            analogWrite(buzzerPin, buzzerTone);
+          else 
+            analogWrite(buzzerPin, LOW);
+          }
         }
       else{ // dupa timpul alocat starii 3 trec in starea 4
         currentStage = 4;
@@ -116,7 +127,7 @@ void loop() {
       break;
     case 4: //State4(4s): red for cars,blinking green for people and a beeping sound from the buzzer,  at a constant interval,faster than the beeping in state 3.
       if(millis() - trafficLightTime < stage4Duration * secInMillis){
-        if(millis() - elapsedBlinkTime >= blinkTime){ // setare interval de intermitenta led verde pietoni si buzzer
+        if(millis() - elapsedBlinkTime >= fasterBlinkTime){ // setare interval de intermitenta led verde pietoni si buzzer
           elapsedBlinkTime = millis();
           passerGreenLedState = !passerGreenLedState; 
           buzzerState = !buzzerState;
