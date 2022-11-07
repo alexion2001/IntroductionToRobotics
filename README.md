@@ -67,15 +67,32 @@ seconds.
 
 
 <details>
-<summary><h2>Homework 3: :x: unknown :x:  </h2> </summary>
+<summary><h2>Homework 3: Draw on the display with a joystick :video_game: :pencil2: </h2> </summary>
 <br>
 
-### Task: 
+### Task: The joystick will be used to control the position of the segment for drawing on the display. 
+### Components:
+- one 7-segment display
+
+- one joystick
+### The system has the following states:
+1. State 1 (default, but also initiated after a button press in State 2): Current position blinking. Can use the joystick to move from one position to neighbors. 
+Short pressing the button toggles state 2. Long pressing the button in state 1 resets the entire display by turning all the segments OFF and moving the current position to the decimal point.
+2. State 2 (initiated after a button press in State 1): The current segment stops blinking, adopting the state of the segment before selection (ON or OFF). Toggling the X axis should change the segment state from ON to OFF or from OFF to ON. Clicking the joystick should save the segment state and exit back to state 1.
+### Neighbors allowed:
+![image](https://user-images.githubusercontent.com/96074975/200335178-c9aedea2-093e-4e96-8423-12af63b4a919.png)
+
 
 ### :computer: Code: [see my amazing code here :blush:]()
 
 ### :movie_camera: How it works: [see my youtube video here :video_camera:]() 
 ### :electric_plug: Electronic scheme:
+
+![schema](https://user-images.githubusercontent.com/96074975/200335401-3505d5c8-398f-4574-b88e-a5c170e3b8db.jpg)
+
+
+![WhatsApp Image 2022-11-07 at 16 33 52](https://user-images.githubusercontent.com/96074975/200336120-2211b6f5-5cd5-4aa7-8f0a-778480e44e30.jpg)
+
 
 
 
