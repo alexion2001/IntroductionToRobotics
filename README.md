@@ -85,7 +85,7 @@ Short pressing the button toggles state 2. Long pressing the button in state 1 r
 
 ### :computer: Code: [see my amazing code here :blush:]()
 
-### :movie_camera: How it works: [see my youtube video here :video_camera:]() 
+### :movie_camera: How it works: [see my youtube video here :video_camera:](https://youtube.com/shorts/bfYbtOD8xuo?feature=share) 
 ### :electric_plug: Electronic scheme:
 
 ![schema](https://user-images.githubusercontent.com/96074975/200335401-3505d5c8-398f-4574-b88e-a5c170e3b8db.jpg)
