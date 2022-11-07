@@ -83,7 +83,7 @@ Short pressing the button toggles state 2. Long pressing the button in state 1 r
 ![image](https://user-images.githubusercontent.com/96074975/200335178-c9aedea2-093e-4e96-8423-12af63b4a919.png)
 
 
-### :computer: Code: [see my amazing code here :blush:]()
+### :computer: Code: [see my amazing code here :blush:](https://github.com/alexion2001/IntroductionToRobotics/blob/d50501e777d2a494ebe838c1f340180c2da6f32e/HW3_draw_on_7segment_display_with_joystick_v3.ino)
 
 ### :movie_camera: How it works: [see my youtube video here :video_camera:](https://youtube.com/shorts/bfYbtOD8xuo?feature=share) 
 ### :electric_plug: Electronic scheme:
