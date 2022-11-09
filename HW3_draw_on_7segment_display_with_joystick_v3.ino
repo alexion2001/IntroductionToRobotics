@@ -104,7 +104,6 @@ void loop() {
     if(reading != longPress){
       longPress = reading;
         if(longPress == LOW){
-          Serial.println("long press");
           resetSegments();
         }
       }
@@ -114,7 +113,6 @@ void loop() {
       swState = reading;
       if (swState == LOW){
         currentState = !currentState;
-        Serial.println("short press");
         toState2 = false; 
       }
     }
@@ -186,7 +184,8 @@ void loop() {
 
 void resetSegments(){
   for (int i = 0; i < segSize; i++){
-    digitalWrite(segments[i], LOW);
+    segmentsState[i] = LOW;
+    digitalWrite(segments[i], segmentsState[i]);
   }
   currentSegment = segSize - 1;
   currentState = true;
