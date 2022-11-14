@@ -101,7 +101,35 @@ Short pressing the button toggles state 2. Long pressing the button in state 1 r
 
 
 <details>
-<summary><h2>Homework 4: :x: unknown :x: </h2> </summary>
+<summary><h2>Homework 4: Changing the digit on a 4 digit 7 segment displays with a joystick :video_game: :bulb: :clock130: </h2> </summary>
+<br>
+
+### Task: The joystick will be used to move through the 4 digit 7segment displays digits (x axis) . Pressing the button will lock in on the current digit and  the other axis (y axis) will increment or decrement the number.  Pressing the button will reset all the digit values and the current position to the first digit in the first state.
+### The system has the following states:
+  1.First state: you can use a joystick axis to cycle through the 4 digits;using the other axis does nothing.  A blinking decimal point showsthe current digit position.  When pressing the button, you lock in on the selected digit and enter the second state.
+  
+  2.Second state: in this state, the decimal point stays always on, no longer blinking and you can no longer use the axis to cycle throughthe  4  digits.   Instead,  using  the  other  axis,  you  can  increment  ondecrement  the  number  on  the  current  digit  IN  HEX  (aka  from  0to F, as in the lab).  Pressing the button again returns you to the previous state.  
+  3.Reset:  toggled by long pressing the buttononly in the first state. When resetting, all the digits go back to 0 and the current positionis set to the first (rightmost) digit, in the first state.
+### Components:
+  - a  joystick
+  - a  4  digit  7-segment  display
+  - a  74hc595  shiftregister
+
+### :computer: Code: [see my amazing code here :blush:]()
+
+### :movie_camera: How it works: [see my youtube video here :video_camera:]() 
+### :electric_plug: Electronic scheme:
+  ![schema_HW4](https://user-images.githubusercontent.com/96074975/201720648-a5c968f3-4aa0-44c3-a686-1a34a7297b64.PNG)
+
+
+
+
+
+</details>
+
+
+<details>
+<summary><h2>Homework 5: :x: unknown :x: </h2> </summary>
 <br>
 
 ### Task: 
@@ -110,6 +138,8 @@ Short pressing the button toggles state 2. Long pressing the button in state 1 r
 
 ### :movie_camera: How it works: [see my youtube video here :video_camera:]() 
 ### :electric_plug: Electronic scheme:
+  
+
 
 
 
