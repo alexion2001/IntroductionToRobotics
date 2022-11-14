@@ -115,12 +115,13 @@ Short pressing the button toggles state 2. Long pressing the button in state 1 r
   - a  4  digit  7-segment  display
   - a  74hc595  shiftregister
 
-### :computer: Code: [see my amazing code here :blush:]()
+### :computer: Code: [see my amazing code here :blush:](https://github.com/alexion2001/IntroductionToRobotics/blob/c05333a9fb359a7cdcd145e13eef413b874e9d50/HW4_Changing_the_digi_on_4digit_7segment_displays.ino)
 
 ### :movie_camera: How it works: [see my youtube video here :video_camera:]() 
 ### :electric_plug: Electronic scheme:
   ![schema_HW4](https://user-images.githubusercontent.com/96074975/201720648-a5c968f3-4aa0-44c3-a686-1a34a7297b64.PNG)
 
+![WhatsApp Image 2022-11-14 at 22 13 52](https://user-images.githubusercontent.com/96074975/201756539-03be0507-d8c4-4caa-87e4-110d3ba466cb.jpg)
 
 
 
