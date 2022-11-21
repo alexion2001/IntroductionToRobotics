@@ -141,9 +141,9 @@ Short pressing the button toggles state 2. Long pressing the button in state 1 r
 
 ### Task: A joystick controlled dot that eats another randomly generated blinking dot. When the player passes over the "food", it disappears and the score increases by 1, and will be generated in another place.
 
-### :computer: Code: [see my amazing code here :blush:]()
+### :computer: Code: [see my amazing code here :blush:](https://github.com/alexion2001/IntroductionToRobotics/blob/8a9a53583245250c2e3a8a1810426a490a0144b2/EatTheDotGame.ino)
 
-### :movie_camera: How it works: [see my youtube video here :video_camera:]() 
+### :movie_camera: How it works: [see my youtube video here :video_camera:](https://youtube.com/shorts/YY9iftQlURI?feature=share) 
 ### :electric_plug: Electronic tables:
 ![image](https://user-images.githubusercontent.com/96074975/203067022-dad49cc5-8ae0-4a7f-a200-9694e8e05168.png)
 
