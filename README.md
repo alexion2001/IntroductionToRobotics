@@ -129,23 +129,34 @@ Short pressing the button toggles state 2. Long pressing the button in state 1 r
 </details>
 
 
+
+# Matrix Project Preparation  
+
+
+
+
 <details>
-<summary><h2>Homework 5: :x: unknown :x: </h2> </summary>
+<summary><h2>Task 1: Dots battle </h2> </summary>
 <br>
 
-### Task: 
+### Task: A joystick controlled dot that eats another randomly generated blinking dot. When the player passes over the "food", it disappears and the score increases by 1, and will be generated in another place.
 
 ### :computer: Code: [see my amazing code here :blush:]()
 
 ### :movie_camera: How it works: [see my youtube video here :video_camera:]() 
-### :electric_plug: Electronic scheme:
-  
+### :electric_plug: Electronic tables:
+![image](https://user-images.githubusercontent.com/96074975/203067022-dad49cc5-8ae0-4a7f-a200-9694e8e05168.png)
 
+### - Matrix to Driver Connections Table
 
+![image](https://user-images.githubusercontent.com/96074975/203066931-a6ceeff2-e593-482d-9d34-42d677148a10.png)
 
+### - Connecting the driver to Arduino
+![image](https://user-images.githubusercontent.com/96074975/203067154-8d8f29b0-b82a-47f1-b42e-0aa755d4e978.png)
 
 
 </details>
+
 
 
 
