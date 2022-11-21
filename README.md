@@ -132,7 +132,7 @@ Short pressing the button toggles state 2. Long pressing the button in state 1 r
 
 # Matrix Project Preparation  
 
-
+- mini useful tasks tried before the matrix game
 
 
 <details>
