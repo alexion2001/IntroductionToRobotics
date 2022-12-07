@@ -178,9 +178,12 @@ Short pressing the button toggles state 2. Long pressing the button in state 1 r
   - Game info (how to play)
   - About (details about creator) 
 
-### :computer: Code: [see my amazing code here :blush:]()
+### :computer: Code: [see my amazing code here :blush:](https://github.com/alexion2001/IntroductionToRobotics/tree/main/snake)
 
-### :movie_camera: How it works: [see my youtube video here :video_camera:]() 
+### :movie_camera: How it works: [see my youtube video here :video_camera:](https://youtube.com/shorts/0r_nSRx_bt0?feature=share) 
+
+![WhatsApp Image 2022-12-07 at 22 22 39](https://user-images.githubusercontent.com/96074975/206287682-d8f44da6-2e9f-4b21-840f-d71f73ab0fa2.jpg)
+
 ### :electric_plug: Electronic tables:
 
 
