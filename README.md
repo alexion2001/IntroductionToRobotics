@@ -162,7 +162,20 @@ Short pressing the button toggles state 2. Long pressing the button in state 1 r
 <summary><h2>Task 2 and Homework 5: LCD menu and Dots battle </h2> </summary>
 <br>
 
-### Task: A joystick controlled dot that eats another randomly generated blinking dot. When the player passes over the "food", it disappears and the score increases by 1, and will be generated in another place.
+### Task: the menu for the snake game.
+### Main Menu Options:
+  - Start game
+  - Highscore (top 5 scores)
+  - Settings
+        - Settings submenus:
+              - Level difficulty
+              - LCD contrast control
+              - LCD brightness control
+              - Matrix brightness control
+              - Sounds on or off
+              - Exit to main menu
+  - Game info (how to play)
+  - About (details about creator) 
 
 ### :computer: Code: [see my amazing code here :blush:]()
 
